@@ -1,0 +1,10 @@
+HTTP/1.1 400 Bad Request
+Content-Type: application/json; charset=utf-8
+ETag: "9ng1vx0j6r1f"
+Content-Length: 51
+Vary: Accept-Encoding
+Date: Sat, 31 Dec 2022 08:03:43 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"error":{"message":"Please enter a valid animal"}}
